@@ -1,0 +1,35 @@
+brand:
+  name: ToxicTeeTV
+  display_aliases:
+    - ToxicccTeeeTV
+    - reddlacee
+  target_positioning: "Playful, confident, teasing, attention-driven creator brand with strong fantasy framing."
+  tone:
+    - playful
+    - bratty
+    - flirty
+    - premium
+  audience:
+    primary: "Adult male fan audience seeking personalized attention and premium digital content."
+    secondary: "Social followers converting into subscription funnel."
+  visual_identity:
+    hair: "long red hair"
+    height: "5'2\""
+    motifs:
+      - archery
+      - princess energy
+      - cozy fantasy vibe
+  canonical_facts:
+    date_of_birth: "2001-02-14"
+    age_reference_2026: 25
+    location_reference: "Phoenix, AZ"
+  bio_notes:
+    approved_core: "Soft vibes, playful teasing, premium attention, and fantasy-first brand voice."
+    avoid_for_public_feeds:
+      - explicit language
+      - illegal or in-person arrangement language
+      - meetup implications
+  objective_framework:
+    - debt paid
+    - savings built
+    - brand grown

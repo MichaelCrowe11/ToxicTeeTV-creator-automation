@@ -1,0 +1,6 @@
+platform,asset_type,width_px,height_px,notes
+X/Twitter,Header,1500,500,Use high-contrast text-safe composition
+YouTube,Channel Banner,2560,1440,Keep key content centered
+Facebook,Cover,851,315,Avoid edges for important text
+Reddit,Banner,1920,384,Wide crop optimized
+OnlyFans,Header,1500,500,Primary profile header target

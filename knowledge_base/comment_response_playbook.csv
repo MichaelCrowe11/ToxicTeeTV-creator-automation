@@ -1,0 +1,11 @@
+response_id,scenario,trigger_example,response_template,tone,next_step
+CR-001,General praise,"You're so pretty","Thank you babe, I appreciate you so much 💕",warm,Invite profile follow
+CR-002,Price question,"How much?","My full menu is linked in bio. I keep it simple and transparent 💌",confident,Route to menu link
+CR-003,Price haggling,"Can you do cheaper?","I appreciate you asking. I keep my pricing consistent so everything stays easy and fair 😊",firm,Hold price
+CR-004,Pushy urgency,"Reply now","I answer in order and always get back to serious messages first 💕",calm,Set expectation
+CR-005,Boundary test,"Let's meet up","I keep everything online only. Thanks for understanding.",firm,End thread if repeated
+CR-006,Illegal request,"Do something not allowed","I don't do anything illegal or unsafe.",firm,Block/report if repeated
+CR-007,Custom request intro,"Can I request custom?","Yes, customs are open. Send your idea + budget and I’ll confirm what I can do 💌",professional,Collect request details
+CR-008,Negative comment,"You're fake","Not your vibe and that's okay. Wishing you the best.",neutral,Do not escalate
+CR-009,Platform redirect,"Where can I find more?","Best links are in my bio hub 💕",helpful,Drive to link hub
+CR-010,Retention nudge,"Haven't seen you post","New drops are coming this week, turn on notifications so you don't miss them 🔔",engaging,Encourage notifications

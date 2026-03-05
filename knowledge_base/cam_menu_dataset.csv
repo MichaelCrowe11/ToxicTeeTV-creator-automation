@@ -1,0 +1,17 @@
+offer_id,category,offer_name,base_price_usd,price_floor_usd,price_ceiling_usd,delivery_mode,turnaround,tiktok_safe_description,upsell_path,status
+PIC-001,Pics,Selfie tease,5,5,10,Digital image,Same day,Exclusive selfie drop,Upsell to premium photo set,active
+PIC-002,Pics,Outfit of your choice,10,10,20,Digital image,1-2 days,Outfit request content,Upsell to short clip,active
+PIC-003,Pics,Mirror tease,15,15,25,Digital image,1 day,Mirror-style photo set,Upsell to video tease,active
+PIC-004,Pics,Shower steam pic,20,20,30,Digital image,1-2 days,Steam aesthetic photo concept,Upsell to premium custom set,active
+PIC-005,Pics,Exclusive unseen photo,25,25,40,Digital image,1-2 days,Limited release image,Upsell to VIP bundle,active
+VID-001,Videos,Blow a kiss or name mention,10,10,20,Short video,Same day,Short personalized shout clip,Upsell to 1-2 minute custom video,active
+VID-002,Videos,Slow body tease (clothed),20,20,35,Short video,1-2 days,Clothed tease clip,Upsell to premium custom,active
+VID-003,Videos,Try-on haul clip,25,25,45,Short video,1-2 days,Outfit try-on mini clip,Upsell to custom request,active
+VID-004,Videos,POV eye-contact tease,30,30,50,Short video,1-3 days,POV style attention clip,Upsell to VIP personal package,active
+VID-005,Videos,Custom short video (1-2 min),50,50,100,Custom video,2-5 days,Custom short-form video,Upsell to exclusive set,active
+ATT-001,Personal Attention,Good morning or good night message,5,5,10,Text message,Same day,Personal greeting message,Upsell to voice note or conversation package,active
+ATT-002,Personal Attention,Voice note (30 sec),15,15,25,Voice note,Same day,Short personalized voice note,Upsell to flirty conversation package,active
+ATT-003,Personal Attention,Flirty conversation (10 min replies),25,25,40,Chat session,Same day,Scheduled personalized chat,Upsell to recurring package,active
+ATT-004,Personal Attention,Playful rating response,20,20,35,Text/voice response,Same day,Playful feedback response,Upsell to custom content order,active
+CUS-001,Premium Customs,Custom content package,75,75,150,Custom mixed content,2-7 days,Premium custom content order,Upsell to exclusive set,active
+CUS-002,Premium Customs,Exclusive set made for buyer,100,100,250,Exclusive set,3-7 days,Private exclusive content set,Upsell to recurring VIP buyer tier,active

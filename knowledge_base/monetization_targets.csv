@@ -1,0 +1,10 @@
+metric,current_value,target_day_30,target_day_60,target_day_90,notes
+subscription_price_usd,14.95,14.95,15.95,19.99,Adjust only after conversion data
+six_month_bundle_usd,50,55,60,75,Increase with stronger proof of value
+ppv_entry_usd,10,12,14,15,Low-friction first unlock
+ppv_mid_usd,15,18,20,22,Core PPV offer
+ppv_premium_usd,25,30,35,40,Premium perceived-value content
+custom_video_min_usd,50,60,75,100,Raise floor as demand improves
+custom_package_min_usd,75,90,110,130,Premium custom lane
+exclusive_set_min_usd,100,120,150,200,VIP monetization layer
+monthly_revenue_goal_usd,0,2500,4500,7000,Track weekly to target

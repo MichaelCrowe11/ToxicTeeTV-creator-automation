@@ -8,6 +8,7 @@ Operational system for ToxicTeeTV growth and monetization on creator platforms.
 - Content selection and scoring system
 - Source inventory from initial album batch
 - Initial 14-day implementation queue
+- Structured knowledge base and datasets for operations
 
 ## Quick Start
 
@@ -19,5 +20,6 @@ Operational system for ToxicTeeTV growth and monetization on creator platforms.
 ## Structure
 
 - `implementation/`: immediate execution artifacts
+- `knowledge_base/`: normalized datasets, playbooks, and policy
 - `docs/`: operational notes
 - `scripts/`: helper utilities for queue generation and scoring
