@@ -1,0 +1,29 @@
+day,date_slot,asset_id,content_type,cta,offer,notes
+1,Day 1 AM,TT-SRC-001,Teaser Feed,Subscribe now,Standard sub,Open loop tease
+1,Day 1 PM,TT-SRC-002,PPV Drop,Unlock now,$14.99 PPV,High-intent frame
+2,Day 2 AM,TT-SRC-003,Teaser Feed,Turn on renew,Sub retention prompt,Drive continuity
+2,Day 2 PM,TT-SRC-004,DM Upsell,Reply for custom,Custom menu,Segment active fans
+3,Day 3 AM,TT-SRC-005,Teaser Feed,Tip to vote,Tip CTA,Engagement first
+3,Day 3 PM,TT-SRC-006,PPV Drop,Unlock full set,$19.99 PPV set,Bundle test
+4,Day 4 AM,TT-SRC-007,Teaser Feed,Join free trial,Free trial link,Acquisition push
+4,Day 4 PM,TT-SRC-008,DM Upsell,Unlock in DM,$9.99 DM PPV,Lower-friction entry
+5,Day 5 AM,TT-SRC-009,Teaser Feed,Subscribe today,Standard sub,Conversion push
+5,Day 5 PM,TT-SRC-010,PPV Drop,Unlock now,$14.99 PPV,Variant B of PPV copy
+6,Day 6 AM,TT-SRC-011,Teaser Feed,Tip for next drop,Tip CTA,Pre-announce drop
+6,Day 6 PM,TT-SRC-012,Story/Teaser,Watch story + DM,Story to DM funnel,Retention touch
+7,Day 7 AM,TT-SRC-013,Teaser Feed,Renew now,Renew reminder,Churn prevention
+7,Day 7 PM,TT-SRC-014,PPV Drop,Unlock weekend set,$24.99 PPV set,Weekend premium
+8,Day 8 AM,TT-SRC-015,Teaser Feed,Subscribe now,Standard sub,Week 2 launch
+8,Day 8 PM,TT-SRC-016,DM Upsell,Reply for menu,Custom menu,DM conversion
+9,Day 9 AM,TT-SRC-017,Teaser Feed,Join now,Trial/discount combo,Top-of-funnel
+9,Day 9 PM,TT-SRC-018,PPV Drop,Unlock now,$14.99 PPV,Consistency test
+10,Day 10 AM,TT-SRC-019,Teaser Feed,Tip to decide next set,Tip CTA,Polling behavior
+10,Day 10 PM,TT-SRC-020,PPV Drop,Unlock full drop,$19.99 PPV set,Batch A closeout
+11,Day 11 AM,TT-SRC-021,Teaser Feed,New set live,Standard sub,Batch B intro
+11,Day 11 PM,TT-SRC-022,DM Upsell,DM unlock,$9.99 DM PPV,Segment lapsed users
+12,Day 12 AM,TT-SRC-023,Teaser Feed,Turn on renew,Retention CTA,Reduce churn
+12,Day 12 PM,TT-SRC-024,PPV Drop,Unlock now,$14.99 PPV,Batch B mid-run
+13,Day 13 AM,TT-SRC-025,Teaser Feed,Subscribe today,Standard sub,Acquisition
+13,Day 13 PM,TT-SRC-026,Story/Teaser,Check story,Story CTA,Soft engagement
+14,Day 14 AM,TT-SRC-027,Teaser Feed,Tip for bonus,Tip CTA,Bonus trigger
+14,Day 14 PM,TT-SRC-028,PPV Drop,Unlock finale,$24.99 PPV set,Two-week finale
