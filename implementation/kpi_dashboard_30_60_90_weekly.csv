@@ -1,0 +1,15 @@
+week,week_start,week_end,phase,new_subs_target,churned_subs_target,active_subs_eow_target,ppv_sales_target,custom_orders_target,dm_conversion_target_pct,dm_threads_target,new_subs_actual,churned_subs_actual,active_subs_eow_actual,ppv_sales_actual,custom_orders_actual,dm_conversion_actual_pct,dm_threads_actual,weekly_status
+W0,2026-03-08,2026-03-08,Baseline,0,0,0,0,0,0.0,0,,,,,,,,Not Started
+W1,2026-03-09,2026-03-15,Day 1-30,8,0,8,6,1,5.0,180,,,,,,,,Not Started
+W2,2026-03-16,2026-03-22,Day 1-30,9,0,17,8,1,5.5,220,,,,,,,,Not Started
+W3,2026-03-23,2026-03-29,Day 1-30,10,1,26,10,2,6.0,260,,,,,,,,Not Started
+W4,2026-03-30,2026-04-05,Day 1-30,11,1,36,12,2,6.5,300,,,,,,,,Not Started
+W5,2026-04-06,2026-04-12,Day 31-60,12,1,47,14,2,7.0,350,,,,,,,,Not Started
+W6,2026-04-13,2026-04-19,Day 31-60,13,2,58,16,3,7.5,400,,,,,,,,Not Started
+W7,2026-04-20,2026-04-26,Day 31-60,14,2,70,18,3,8.0,460,,,,,,,,Not Started
+W8,2026-04-27,2026-05-03,Day 31-60,15,3,82,22,4,8.5,520,,,,,,,,Not Started
+W9,2026-05-04,2026-05-10,Day 61-90,16,3,95,26,4,9.0,590,,,,,,,,Not Started
+W10,2026-05-11,2026-05-17,Day 61-90,17,4,108,30,5,9.5,660,,,,,,,,Not Started
+W11,2026-05-18,2026-05-24,Day 61-90,18,4,122,34,5,10.0,740,,,,,,,,Not Started
+W12,2026-05-25,2026-05-31,Day 61-90,19,5,136,38,6,10.5,820,,,,,,,,Not Started
+W13,2026-06-01,2026-06-07,Day 61-90,20,5,151,42,6,11.0,900,,,,,,,,Not Started

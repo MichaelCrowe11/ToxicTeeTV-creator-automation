@@ -128,3 +128,6 @@ WIP limits:
 
 - Selection system: [ToxicTeeTV_content_selection_design_system.md](/Users/michaelcrowe/ToxicTeeTV_content_selection_design_system.md)
 - Intake template: [ToxicTeeTV_content_intake_template.csv](/Users/michaelcrowe/ToxicTeeTV_content_intake_template.csv)
+- KPI dashboard brief: [kpi_dashboard_30_60_90.md](/Users/michaelcrowe/ToxicTeeTV-creator-automation/implementation/kpi_dashboard_30_60_90.md)
+- KPI weekly tracker: [kpi_dashboard_30_60_90_weekly.csv](/Users/michaelcrowe/ToxicTeeTV-creator-automation/implementation/kpi_dashboard_30_60_90_weekly.csv)
+- KPI Sheets tracker: [kpi_dashboard_30_60_90_google_sheets.csv](/Users/michaelcrowe/ToxicTeeTV-creator-automation/implementation/kpi_dashboard_30_60_90_google_sheets.csv)

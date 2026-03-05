@@ -105,4 +105,6 @@ Day 90 checkpoint:
 - Inventory: [ToxicTeeTV_source_inventory_1BJcPXPK3w1ipQ947.csv](/Users/michaelcrowe/ToxicTeeTV_source_inventory_1BJcPXPK3w1ipQ947.csv)
 - General master board: [ToxicTeeTV_30-60-90_execution_board.md](/Users/michaelcrowe/ToxicTeeTV_30-60-90_execution_board.md)
 - Selection system: [ToxicTeeTV_content_selection_design_system.md](/Users/michaelcrowe/ToxicTeeTV_content_selection_design_system.md)
-
+- KPI dashboard brief: [kpi_dashboard_30_60_90.md](/Users/michaelcrowe/ToxicTeeTV-creator-automation/implementation/kpi_dashboard_30_60_90.md)
+- KPI weekly tracker: [kpi_dashboard_30_60_90_weekly.csv](/Users/michaelcrowe/ToxicTeeTV-creator-automation/implementation/kpi_dashboard_30_60_90_weekly.csv)
+- KPI Sheets tracker: [kpi_dashboard_30_60_90_google_sheets.csv](/Users/michaelcrowe/ToxicTeeTV-creator-automation/implementation/kpi_dashboard_30_60_90_google_sheets.csv)
